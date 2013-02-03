@@ -2,6 +2,8 @@
 /**
  * The template for displaying standard post formats.
  *
+ * This loop.php file should be added to your child theme. It moves the Posted by ___ on Data ___ in ___ to the bottom of the post.
+ *
  * @package Standard
  * @since 3.0
  */
