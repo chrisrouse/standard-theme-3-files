@@ -9,6 +9,8 @@ Custom function to use relative dates rather than absolute dates on posts
 
 ## Features
 
+![https://github.com/chrisrouse/standard-theme-3-files/blob/master/Relative%20Date%20function/minutesago.jpg]
+
 + Includes instructions for using this function
 + Includes the function in functions.php
 + Includes modified loop files for post formats
