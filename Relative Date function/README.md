@@ -12,6 +12,7 @@ Custom function to use relative dates rather than absolute dates on posts
 + Includes instructions for using this function
 + Includes the function in functions.php
 + Includes modified loop files for post formats
++ Includes screenshots showing code changes
 
 ### Screenshots
 
