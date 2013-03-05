@@ -8,7 +8,7 @@ Custom function to use relative dates rather than absolute dates on posts
 + [Standard Theme](http://www.standardtheme.com/)
 
 ## Features
-![Relative Date](https://github.com/chrisrouse/standard-theme-3-files/blob/master/Relative%20Date%20function/minutesago.jpg)
+![Relative Date](http://www.chrisrouse.us/images/minutesago.jpg)
 
 + Includes instructions for using this function
 + Includes the function in functions.php
