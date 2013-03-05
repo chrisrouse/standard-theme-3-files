@@ -1,22 +1,5 @@
 <?php
 
-/*
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ INSTRUCTIONS /\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\/\
-
-The following adds a function to WordPress that lets you use the relative date of a post
-rather than the absolute date. Instead of January 1, 2010, you would see "2 years ago"
-and instead of the current date, you'd see "5 hours ago". You get the idea.
-
-Don't copy any of this stuff up here. Just copy the stuff down below and paste it into
-your existing functions.php file.
-
-This is intended for Standard Theme 3 (www.standardtheme.com). Add this to your
-child theme folder rather than modifying the core functions.php file.
-
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\/\/\/\/\/\/\
-*/
-
-
 // Add Relatative Date Function
 if(!function_exists('how_long_ago')){
         function how_long_ago($timestamp){
